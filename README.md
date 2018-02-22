@@ -3,35 +3,32 @@
 
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+We used an Arduino Uno and an ultrasound sensor to detect the distance and the motion of the hand from the sensor .This measurment is used inside the game and describes the motion of the cupcake. If our hand is higher then the cupcake goes high etc
 
-## Code Example
+## Circuit
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Arduino Uno
+ultrasound sensor 
+cables
+Prossesing Platform
+Arduino Platform
 
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Vcc -> Arduino 5V
+Trig-> Arduino pin 3
+Echo-> Arduino pin 2
+GND->  Arduino GNG
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Karolos Tsakalos
+Papathanasiou Aggeliki
 
-## License
+## Game Screenshots
 
-A short snippet describing the license (MIT, Apache, etc.)
 
 ![screenshots](https://user-images.githubusercontent.com/36361340/36546165-5e8798b4-17f3-11e8-9bfb-1e9df28ac77f.PNG)
  
