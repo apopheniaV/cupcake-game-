@@ -8,7 +8,8 @@ We used an Arduino Uno and an ultrasound sensor to detect the distance and the m
 ## Circuit
 
 Arduino Uno
-ultrasound sensor 
+<br>
+ultrasound sensor <br>
 cables
 Prossesing Platform
 Arduino Platform
