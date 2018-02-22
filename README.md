@@ -7,26 +7,27 @@ We used an Arduino Uno and an ultrasound sensor to detect the distance and the m
 
 ## Circuit
 
-Arduino Uno
-<br>
-ultrasound sensor <br>
-cables
-Prossesing Platform
-Arduino Platform
-
+<ul>
+  <li>Arduino Uno</li>
+  <li>Ultrasound sensor</li>
+  <li>Cables</li>
+  <li>Prossesing Platform</li>
+  <li>Arduino Platform</li>
+  </ul>
 
 ## Installation
-
-Vcc -> Arduino 5V
-Trig-> Arduino pin 3
-Echo-> Arduino pin 2
-GND->  Arduino GNG
+<ul>
+<li>Vcc -> Arduino 5V </li>
+<li>Trig-> Arduino pin 3 </li>
+<li>Echo-> Arduino pin 2 </li>
+<li>GND->  Arduino GNG </li>
+</ul>
 
 
 ## Contributors
 
-Karolos Tsakalos
-Papathanasiou Aggeliki
+Karolos Tsakalos <br>
+Papathanasiou Aggeliki <br>
 
 ## Game Screenshots
 
